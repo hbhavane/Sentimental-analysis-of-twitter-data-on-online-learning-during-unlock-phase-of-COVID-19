@@ -15,8 +15,6 @@
 - Classifying the users’ opinion about online learning as positive, negative and neutral during the COVID-19 pandemic in the world.
 - Classifying the users’ opinion about online learning as positive, negative and neutral during the COVID-19 pandemic in country wise.
 
-![image](https://github.com/hbhavane/Sentimental-analysis-of-twitter-data-on-online-learning-during-unlock-phase-of-COVID-19/assets/78750775/a4170744-d0c0-4958-a560-3e896083c7c4)
-
 ## Parts of Project
 ![image](https://github.com/hbhavane/Sentimental-analysis-of-twitter-data-on-online-learning-during-unlock-phase-of-COVID-19/assets/78750775/ca56385e-f835-4cd3-8d04-56e55e2e4f6e)
 
